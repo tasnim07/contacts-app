@@ -5,3 +5,4 @@ include
 bin
 local_settings.py
 db.sqlite3
+python-getting-started
